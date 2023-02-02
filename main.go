@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"haiooId/shoppingChart/config"
+	"haiooId/shoppingChart/counteditstring"
 	"haiooId/shoppingChart/factory"
 	"haiooId/shoppingChart/moneyfraction"
 	"haiooId/shoppingChart/utils/database/mysql"
@@ -14,6 +15,9 @@ func main() {
 	// Answer number 1
 	var n int = 145000
 	moneyfraction.MoneyFraction(n)
+
+	// Answer number 2
+	counteditstring.CountEditString("telkom", "telecom")
 
 	cfg := config.GetConfig()
 	db := mysql.InitDB(cfg)
