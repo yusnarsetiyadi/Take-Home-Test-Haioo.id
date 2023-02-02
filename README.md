@@ -4,7 +4,7 @@
 Program menghitung pecahan mata uang. Source Code: [Click here](https://github.com/yusnarsetiyadi/Take-Home-Test-Haioo.id/blob/main/moneyfraction/moneyFraction.go)
 
 ## 2. 
-Program menghitung proses edit dari dua buah string. Source Code: Click here
+Program menghitung proses edit dari dua buah string. Source Code: [Click here](https://github.com/yusnarsetiyadi/Take-Home-Test-Haioo.id/blob/main/counteditstring/countEditString.go)
 
 ## 3. 
 script berikut adalah script dari dockerfile:
