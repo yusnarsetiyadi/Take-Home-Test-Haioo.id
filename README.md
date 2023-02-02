@@ -39,7 +39,9 @@ SELECT * FROM data_siswa WHERE id = 1
 ```
 
 ## 6
-Backend Service Shopping Chart: [Click here](https://github.com/yusnarsetiyadi/Take-Home-Test-Haioo.id)
+- Backend Service Shopping Chart: [Click here](https://github.com/yusnarsetiyadi/Take-Home-Test-Haioo.id)
+
+- Open API: [Click here](https://app.swaggerhub.com/apis-docs/YUSNARSETIYADI150403/TakeHomeTestHaiooId/1.0.0#/)
 
 - clone repository
 ```
